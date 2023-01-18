@@ -10,6 +10,11 @@ html {
   font-family: "poppins";
 }
 
+::selection {
+  background-color: #fff;
+  color: crimson;
+}
+
 a {
   text-decoration: none;
 }
