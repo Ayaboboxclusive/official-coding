@@ -441,6 +441,9 @@ img {
 #about .about-items:hover .about-image img {
   transform: scale(1.2);
 }
+.button-less {
+  margin-top: 2.5rem;
+}
 
 /*    End of About Section */
 
